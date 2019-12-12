@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{150:function(e,n,t){"use strict";t.r(n);var a=t(0),o=t.n(a),c=t(49);n.default=function(){return o.a.createElement("div",null,o.a.createElement("p",null,"Hello Gatsby!"),o.a.createElement(c.a,{to:"/account"},"Go to your account"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-3b70bcf5af5952c6c256.js.map
